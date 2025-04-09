@@ -1,2 +1,3 @@
 # first-demo
-my first repository
+This is my first repository
+Auther - Nimesh Tamrakar
